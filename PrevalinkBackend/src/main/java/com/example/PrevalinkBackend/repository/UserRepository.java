@@ -1,7 +1,8 @@
-package com.example.repository;
-import com.example.model.User; 
+package com.example.PrevalinkBackend.repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
+
+import com.example.PrevalinkBackend.model.User;
 
 
 @Repository 

@@ -1,7 +1,8 @@
-package com.example.controller;
+package com.example.PrevalinkBackend.controller;
 
-import com.example.model.User; 
-import com.example.service.UserService;
+import com.example.PrevalinkBackend.model.User;
+import com.example.PrevalinkBackend.service.UserService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity; 
 import org.springframework.web.bind.annotation.*;

@@ -1,8 +1,9 @@
-package com.example.service.impl;
+package com.example.PrevalinkBackend.service.impl;
 
-import com.example.model.User;
-import com.example.repository.UserRepository;
-import com.example.service.UserService;
+import com.example.PrevalinkBackend.model.User;
+import com.example.PrevalinkBackend.repository.UserRepository;
+import com.example.PrevalinkBackend.service.UserService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
